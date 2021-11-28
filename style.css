@@ -8,7 +8,6 @@ li {
     list-style-type: none;
     padding:10px;
     display: inline;
-    float:20%;
     font-size:17px;
     
 }
@@ -96,7 +95,7 @@ footer {
     display:inline-block;
     border: double black;
     border-width: 10px;
-    border-radius: 15px 50px;
+    border-radius: 50px 15px;
     
 }
 
